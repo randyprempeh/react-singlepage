@@ -67,7 +67,7 @@ let introductionNextButton = (props) => {
 
   const Page1 = props => (
     <div>
-      <img src="./nas.png" alt="img-logo" />
+      <img src="public/nas.png" alt="img-logo" />
       <p className="App-intro"><b>Explore page</b> <br /><span>Anything that you <br />thrive to get in Life <br />doesnt come that <br />easily,
           step out of your<br /> comfort zone and get it</span></p>
       {introductionNextButton(props)}
